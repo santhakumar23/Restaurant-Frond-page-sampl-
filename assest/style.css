@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.menu{
+    padding: 50px;
+    text-align: center;
+   
+}
+   
+.griled,.soup,.lolipop,.briyani{
+    margin-top: 15px;
+    display: inline-block;
+    border: solid black 2px;
+    padding: px;
+}
+
+.griled__desc,.soup__desc,.lolipop__desc,.briyani__desc{
+    width: 230px;
+    padding-left:15px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    }
+
+.table_main{
+    display: inline-block;
+}
+
+.send__button{
+    background-color: yellow;
+    color: black;
+    width: 300px;
+    
+}
+
+
+
+
+
